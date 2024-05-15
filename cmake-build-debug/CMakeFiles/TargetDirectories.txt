@@ -1,0 +1,3 @@
+/home/daoan/Projects/rk3588_rga_freeze/cmake-build-debug/CMakeFiles/rk3588_rga_freeze.dir
+/home/daoan/Projects/rk3588_rga_freeze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daoan/Projects/rk3588_rga_freeze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
